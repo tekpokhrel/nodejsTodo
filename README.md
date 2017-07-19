@@ -1,6 +1,6 @@
 # nodejsTodo
 
-This is simple CRUD operation using Nodejs, Express, and MongoDB.
+This is simple CRUD operation using Node.js, Express, and MongoDB.
 
 ## Development server
 
